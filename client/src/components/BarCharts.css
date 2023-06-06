@@ -1,0 +1,9 @@
+.charts{
+    width: 100%;
+    display: flex;
+}
+
+.insights{
+    display: flex;
+    flex-direction: column;
+}
